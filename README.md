@@ -31,13 +31,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=15RAS16&show_icons=true&theme=radical" alt="Raj's GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=15RAS16&theme=radical" alt="Raj's Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15RAS16&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
